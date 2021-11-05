@@ -1,0 +1,25 @@
+.alert-simple{
+    background-color: lightblue;
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+.alert-success{
+    background-color: lightgreen;
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+
+}
+.alert-danger{
+    background-color: lightcoral;
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+.alert-warning{
+    background-color: lightsalmon;
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
